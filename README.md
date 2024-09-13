@@ -1,7 +1,12 @@
 
 # GNNDelete: A General Unlearning Strategy for Graph Neural Networks
 
-#### Authors: 
+## Datasets on Kaggle
+
+- [skywardai/ogbl-citation2](https://www.kaggle.com/models/skywardai/ogbl-citation2)
+- [skywardai/ogbl-collab](https://www.kaggle.com/models/skywardai/ogbl-collab)
+
+#### Original Authors: 
 - [Jiali Cheng]() (jiali.cheng.ccnr@gmail.com)
 - [George Dasoulas](https://gdasoulas.github.io/) (george.dasoulas1@gmail.com)
 - [Huan He](https://github.com/mims-harvard/Raindrop) (huan_he@hms.harvard.edu)
